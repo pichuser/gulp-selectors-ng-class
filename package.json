@@ -1,0 +1,19 @@
+{
+  "name": "gulp-selectors-ng-class",
+  "version": "1.0.0",
+  "description": "plugin for gulp-selectors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pichuser/gulp-selectors-ng-class.git"
+  },
+  "author": "pichuser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pichuser/gulp-selectors-ng-class/issues"
+  },
+  "homepage": "https://github.com/pichuser/gulp-selectors-ng-class#readme"
+}
